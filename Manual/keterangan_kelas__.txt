@@ -1,0 +1,4 @@
+Keterangan:
+Ultra saver -> Tarif Murah
+Ultra Flexi -> Tarif Utama
+Infant	-> bayi 2 Thn kebwh (max 10 stk)
